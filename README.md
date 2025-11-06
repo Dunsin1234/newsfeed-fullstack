@@ -5,5 +5,5 @@ Run everything instantly with Docker Compose.
 ```bash
 docker compose up --build
 ```
-Frontend:http://localhost:3000  
-Backend:http://localhost:5000/news
+Frontend.
+Backend.
