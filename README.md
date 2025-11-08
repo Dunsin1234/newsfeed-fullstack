@@ -1,5 +1,5 @@
 # 🗞️ NewsFeed Fullstack App
-Run everything instantly with Docker Compose.
+Fullstack website built in collaboration with the Bloomberg Engineering Team.
 
 ## Run
 ```bash
