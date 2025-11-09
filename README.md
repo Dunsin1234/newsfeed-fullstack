@@ -1,5 +1,5 @@
 # 🗞️ NewsFeed Fullstack App
-Fullstack website built in collaboration with the Bloomberg Engineering Team.
+Fullstack website built in collaboration with the Bloomberg Engineering Team
 
 ## Run
 ```bash
