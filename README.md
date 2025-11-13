@@ -5,5 +5,5 @@ Fullstack website built in collaboration with the Bloomberg Engineering Team
 ```bash
 docker compose up --build
 ```
-Frontend
-Backend
+Frontend.
+Backend.
