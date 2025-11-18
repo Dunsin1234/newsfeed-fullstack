@@ -7,4 +7,4 @@ docker compose up --build
 ```
 Frontend.
 Backend.
-Newsfee
+Newsfeed
