@@ -7,4 +7,3 @@ docker compose up --build
 ```
 Frontend.
 Backend.
-Newsfeed
